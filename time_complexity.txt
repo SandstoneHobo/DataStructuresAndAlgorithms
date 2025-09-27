@@ -1,0 +1,17 @@
+Runtime is the time needed for an algorithm to do its job
+
+We do not use actual runtime because there are too many factors like programming language, interpreter, hardware, and more
+
+Time complexity is the number of operations needed to run an algorithm on large amounts of data, which can be considered the time for the algorithm because a computer will take some time for each operation
+
+One operation is understood as something that happens for each iteration of an algorithm, that takes constant time
+
+Big O Notation
+    -Used to describe the worst case time complexity for an algorithm
+    -n represents the number of values in the data set
+    O(1) - constant time
+    O(n) - Linear time
+    O(n^2) - Exponential time
+    O(n * log(n)) - less time for small values more time for large values
+
+Big O Notation in math is used to map the upper bound of a function
